@@ -55,7 +55,9 @@ html, body {
     #card {
         width: 80%; 
         height: 400; 
-        padding: 10px; 
+        /* padding: 10px;  */
+        height:288px;
+        width:288px;
     }
   }
 
